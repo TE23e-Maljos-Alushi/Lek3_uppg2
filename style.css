@@ -1,0 +1,38 @@
+container{
+    display: flex;
+    flex-direction: row;
+}
+
+body{
+    background-image: url(./img/ek.jpg);
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    background-color: lightblue;
+    color: rgb(228, 155, 168) ;
+    text-align: center;
+}
+h2{
+    background-color: purple;
+    color: lightgreen;
+}
+ul{
+  color: black;
+    
+}
+li{
+    color: black;
+}
+h3{
+    background-color: purple;
+    color: lightgreen;
+}
+p{
+    background-color: white;
+}
+a{
+   color: white;
+  background-color: black;
+}
